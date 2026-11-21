@@ -1,0 +1,26 @@
+{
+ "name": "N3 퀘스트",
+ "short_name": "N3 퀘스트",
+ "description": "JLPT N3 합격 픽셀 게임",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#e7f2a8",
+ "theme_color": "#e7f2a8",
+ "lang": "ko",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png",
+   "purpose": "any"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "any"
+  }
+ ]
+}
